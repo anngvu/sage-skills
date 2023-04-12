@@ -3,7 +3,7 @@
 This is an open-source side project for data-driven skills development at Sage. 
 The skills data model uses https://lightcast.io/open-skills.
 
-## Framework for learning new skills
+## A wise framework for learning new skills
 
 This is a tentative framework for skills learning and career development. 
 How should you prioritize and assess skills learning? 
