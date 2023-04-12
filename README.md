@@ -10,6 +10,7 @@ How should you prioritize and assess skills learning?
 Some factors so far:
 - How relevant it is to your role
 - How relevant it is to the project you're on (even if it may be outside your role)
+- How many people are actually available to help you with development of this skill
 - How valuable it is _currently_ based on current market data
 - How valuable it will be in the future based on projected data (this could account for AI risk)
 - How much it inherently interests you/how much you'll enjoy it
